@@ -1,0 +1,7 @@
+account sid AC44ce835f45f88a09f22c987c09f2b76b
+auth token 40793737aa89a16798ed87427fa2d965
+service sid 	IS719dd9fe6ca05a3a1d2b6f87acaf21d6
+secret OJRflYurCnsilJLYmBCEXCCeBto4P5rE
+api key SKd063be5ca04948bf3b22afaafa0945e9
+
+service project VA13a4fc2ebc89e952edc14c40c5a6646c
